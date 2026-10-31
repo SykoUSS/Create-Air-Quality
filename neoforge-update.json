@@ -1,10 +1,11 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/create-air-quality/",
   "promos": {
-    "1.21.1-latest": "1.2.73-6.0.10",
-    "1.21.1-recommended": "1.2.73-6.0.10"
+    "1.21.1-latest": "1.2.96-6.0.10",
+    "1.21.1-recommended": "1.2.96-6.0.10"
   },
   "1.21.1": {
+    "1.2.96-6.0.10": "Fixed internal versioning",
     "1.2.73-6.0.10": "Fixed purifier blocks on Sable sub-levels",
     "1.2.43-6.0.10": "Added support for Sable & Create:Aeronautics",
     "1.0.0-6.0.10": "Initial release"
